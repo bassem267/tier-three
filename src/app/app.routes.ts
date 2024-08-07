@@ -6,7 +6,7 @@ import { Page4Component } from './page4/page4.component';
 import { Page5Component } from './page5/page5.component';
 
 export const routes: Routes = [
-  { path: '', component: Page1Component },
+  { path: '', component: Page3Component },
   {
     path: 'page1',
     component: Page1Component,
